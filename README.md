@@ -29,10 +29,4 @@ This repository contains a simple Python bot script that enables you to upload d
    `API_HASH`: Your Telegram API hash
    `BOT_TOKEN`: Your bot's token
 
-## Usage
-
-```bash
-Copy code
-python script.py
-
 
