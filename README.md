@@ -20,11 +20,9 @@ This repository contains a simple Python bot script that enables you to upload d
 
 ## Install the required dependencies:
 
-   ```bash
-   Copy code
+   ```
    pip install -r requirements.txt
    ```
-   
 ## Replace the following placeholders in the script with your own values:
 
    `API_ID`: Your Telegram API ID
