@@ -53,7 +53,7 @@ The bot uses the Pyrogram library to interact with the Telegram API. It provides
 
 When you run the script and start a chat with the bot, you can use the commands mentioned above to perform various file upload actions.
 
-Note
+## Note
 This script is a basic example and may require further customization and error handling for production use.
 Be cautious when handling user data and tokens. Keep your API credentials and bot token secure.
 The exponential backoff mechanism is used to handle rate limiting issues during file uploads.
