@@ -33,7 +33,7 @@ This repository contains a simple Python bot script that enables you to upload d
 
 1. Run the script:
 ```
-   python script.py
+   python upload.py
 ```
 2. Start a chat with your bot on Telegram.
 
