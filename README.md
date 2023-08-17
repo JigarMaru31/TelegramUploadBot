@@ -15,7 +15,7 @@ This repository contains a simple Python bot script that enables you to upload d
 
    ```bash
    git clone https://github.com/JigarMaru31/TelegramUploadBot.git
-   cd your-repo
+   cd TelegramUploadBot
    ```
 
 2. Install the required dependencies:
